@@ -1,0 +1,21 @@
+# Godot
+.godot/
+# Legacy (Godot 3) import dir — safe to ignore if present
+.import/
+
+# Build/Export outputs
+/export/
+/bin/
+/build/
+
+# Platform-specific build dirs
+/android/
+/ios/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
